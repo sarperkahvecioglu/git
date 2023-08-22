@@ -1,1 +1,2 @@
 git kursuna 
+bu derste ignore ogreniyok
